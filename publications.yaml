@@ -2,10 +2,10 @@ papers:
   - title: "GraphPI: Efficient Protein Inference with Graph Neural Networks"
     authors: "Ma, Zheng, Chen, Jiazhen, Xin, Lei, Ghodsi, Ali"
     venue: "Journal of Proteome Research"
-    #paper_pdf: ""
-    #code: ""
+    paper_pdf: "https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.3c00845"
+    code: "https://github.com/hearthewind/graphpi_protein_inference"
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Multidimensional Scaling, Sammon Mapping, and Isomap"
     authors: "Ghojogh, Benyamin, Crowley, Mark, Karray, Fakhri, Ghodsi, Ali"
