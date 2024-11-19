@@ -195,8 +195,8 @@ papers:
     authors: "Qiao, Rui, Tran, Ngoc Hieu, Xin, Lei, Chen, Xin, Li, Ming, Shan, Baozhen, Ghodsi, Ali"
     venue: "Nature Machine Intelligence"
     #paper_pdf: ""
-    #code: ""
-    #data: ""
+    code: "https://zenodo.org/records/3960823"
+    data: "https://zenodo.org/records/3998873"
     selected: n
 
   - title: "Parallel LS-SVM for the numerical simulation of fractional Volterra’s population model"
@@ -251,7 +251,7 @@ papers:
     authors: "Tran, Ngoc Hieu, Qiao, Rui, Xin, Lei, Chen, Xin, Liu, Chuyi, Zhang, Xianglilan, Shan, Baozhen, Ghodsi, Ali, Li, Ming"
     venue: "Nature methods"
     #paper_pdf: ""
-    #code: ""
+    code: "https://github.com/nh2tran/DeepNovo-DIA"
     #data: ""
     selected: n
 
@@ -739,7 +739,7 @@ papers:
     authors: "Qiao, Rui, Tran, Ngoc Hieu, Xin, Lei, Shan, Baozhen, Li, Ming, Ghodsi, Ali"
     venue: "arXiv preprint arXiv:1904.08514"
     #paper_pdf: ""
-    #code: ""
+    code: "https://github.com/volpato30/DeepNovoV2"
     #data: ""
     selected: n
 
