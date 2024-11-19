@@ -217,11 +217,11 @@ papers:
 
   - title: "Knowledge distillation by utilizing backward pass knowledge in neural networks"
     authors: "Jafari, Aref, Rezagholizadeh, Mehdi, Ghodsi, Ali"
-    venue: ""
-    #paper_pdf: ""
+    venue: "Efficient Natural Language and Speech Processing (ENLSP workshop)"
+    #paper_pdf: "https://neurips2022-enlsp.github.io/papers/paper_70.pdf"
     #code: ""
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Discriminant component analysis via distance correlation maximization"
     authors: "Abdi, Lida, Ghodsi, Ali"
@@ -809,11 +809,11 @@ papers:
 
   - title: "Annealing knowledge distillation"
     authors: "Jafari, Aref, Rezagholizadeh, Mehdi, Sharma, Pranav, Ghodsi, Ali"
-    venue: "arXiv preprint arXiv:2104.07163"
-    #paper_pdf: ""
-    #code: ""
+    venue: "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics"
+    #paper_pdf: "https://aclanthology.org/2021.eacl-main.212.pdf"
+    #code: "https://github.com/huawei-noah/Efficient-NLP/tree/main/Annealing_KD"
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Not far away, not so close: Sample efficient nearest neighbour data augmentation via minimax"
     authors: "Kamalloo, Ehsan, Rezagholizadeh, Mehdi, Passban, Peyman, Ghodsi, Ali"
@@ -831,13 +831,6 @@ papers:
     #data: ""
     selected: n
 
-  - title: "Improved knowledge distillation by utilizing backward pass knowledge in neural networks"
-    authors: "Jafari, Aref, Rezagholizadeh, Mehdi, Ghodsi, Ali"
-    venue: "arXiv preprint arXiv:2301.12006"
-    #paper_pdf: ""
-    #code: ""
-    #data: ""
-    selected: n
 
   - title: "Reproducing Kernel Hilbert Space, Mercer's Theorem, Eigenfunctions, Nystrom Method, and Use of Kernels in Machine Learning: Tutorial and Survey"
     authors: "Ghojogh, Benyamin, Ghodsi, Ali, Karray, Fakhri, Crowley, Mark"
@@ -889,11 +882,11 @@ papers:
 
   - title: "How to select one among all? an extensive empirical study towards the robustness of knowledge distillation in natural language understanding"
     authors: "Li, Tianda, Rashid, Ahmad, Jafari, Aref, Sharma, Pranav, Ghodsi, Ali, Rezagholizadeh, Mehdi"
-    venue: "arXiv preprint arXiv:2109.05696"
-    #paper_pdf: ""
-    #code: ""
+    venue: "Findings of the Association for Computational Linguistics: EMNLP 2021"
+    #paper_pdf: "https://aclanthology.org/2021.findings-emnlp.65.pdf"
+    #code: "https://github.com/huawei-noah/Efficient-NLP/tree/main/Combined-KD"
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Kroneckerbert: Learning kronecker decomposition for pre-trained language models via knowledge distillation"
     authors: "Tahaei, Marzieh S, Charlaix, Ella, Nia, Vahid Partovi, Ghodsi, Ali, Rezagholizadeh, Mehdi"
@@ -929,11 +922,11 @@ papers:
 
   - title: "Pro-KD: Progressive distillation by following the footsteps of the teacher"
     authors: "Rezagholizadeh, Mehdi, Jafari, Aref, Salad, Puneeth, Sharma, Pranav, Pasand, Ali Saheb, Ghodsi, Ali"
-    venue: "arXiv preprint arXiv:2110.08532"
-    #paper_pdf: ""
+    venue: "Proceedings of the 29th International Conference on Computational Linguistics, 2022"
+    #paper_pdf: "https://aclanthology.org/2022.coling-1.418.pdf"
     #code: ""
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Universal-KD: Attention-based output-grounded intermediate layer knowledge distillation"
     authors: "Wu, Yimeng, Rezagholizadeh, Mehdi, Ghaddar, Abbas, Haidar, Md Akmal, Ghodsi, Ali"
@@ -967,14 +960,14 @@ papers:
     #data: ""
     selected: n
 
-  - title: "Towards understanding label regularization for fine-tuning pre-trained language models"
+  - title: "Do we need Label Regularization to Fine-tune Pre-trained Language Model"
     authors: "Kobyzev, Ivan, Jafari, Aref, Rezagholizadeh, Mehdi, Li, Tianda, Do-Omri, Alan, Lu, Peng, Ghodsi, Ali, Poupart, Pascal"
-    venue: "arXiv preprint arXiv:2205.12428"
-    #paper_pdf: ""
+    venue: "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics"
+    #paper_pdf: "https://aclanthology.org/2023.eacl-main.13.pdf"
     #code: ""
     #data: ""
-    selected: n
-
+    selected: y
+    
   - title: "KroneckerBERT: Significant compression of pre-trained language models through kronecker decomposition and knowledge distillation"
     authors: "Tahaei, Marzieh, Charlaix, Ella, Nia, Vahid, Ghodsi, Ali, Rezagholizadeh, Mehdi"
     venue: "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
@@ -993,23 +986,15 @@ papers:
 
   - title: "Continuation kd: Improved knowledge distillation through the lens of continuation optimization"
     authors: "Jafari, Aref, Kobyzev, Ivan, Rezagholizadeh, Mehdi, Poupart, Pascal, Ghodsi, Ali"
-    venue: "arXiv preprint arXiv:2212.05998"
-    #paper_pdf: ""
+    venue: "Findings of the Association for Computational Linguistics: EMNLP 2022"
+    #paper_pdf: "https://aclanthology.org/2022.findings-emnlp.385.pdf"
     #code: ""
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Recurrent neural networks and long short-term memory networks: Tutorial and survey"
     authors: "Ghojogh, Benyamin, Ghodsi, Ali"
     venue: "arXiv preprint arXiv:2304.11461"
-    #paper_pdf: ""
-    #code: ""
-    #data: ""
-    selected: n
-
-  - title: "Do we need Label Regularization to Fine-tune Pre-trained Language Models?"
-    authors: "Kobyzev, Ivan, Jafari, Aref, Rezagholizadeh, Mehdi, Li, Tianda, Do-Omri, Alan, Lu, Peng, Poupart, Pascal, Ghodsi, Ali"
-    venue: "arXiv preprint arXiv:2205.12428"
     #paper_pdf: ""
     #code: ""
     #data: ""
@@ -1090,10 +1075,10 @@ papers:
   - title: "Efficient Citer: Tuning Large Language Models for Enhanced Answer Quality and Verification"
     authors: "Tahaei, Marzieh, Jafari, Aref, Rashid, Ahmad, Alfonso-Hermelo, David, Bibi, Khalil, Wu, Yimeng, Ghodsi, Ali, Chen, Boxing, Rezagholizadeh, Mehdi"
     venue: "Findings of the Association for Computational Linguistics: NAACL 2024"
-    #paper_pdf: ""
+    #paper_pdf: "https://aclanthology.org/2024.findings-naacl.277.pdf"
     #code: ""
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Restricted boltzmann machine and deep belief network: Tutorial and survey"
     authors: "Ghojogh, Benyamin, Ghodsi, Ali, Karray, Fakhri, Crowley, Mark"
@@ -1153,11 +1138,11 @@ papers:
 
   - title: "Echoatt: Attend, copy, then adjust for more efficient large language models"
     authors: "Rajabzadeh, Hossein, Jafari, Aref, Sharma, Aman, Jami, Benyamin, Kwon, Hyock Ju, Ghodsi, Ali, Chen, Boxing, Rezagholizadeh, Mehdi"
-    venue: "arXiv preprint arXiv:2409.14595"
-    #paper_pdf: ""
+    venue: "Efficient Natural Language and Speech Processing (ENLSP-IV) workshop, 2024"
+    #paper_pdf: "https://arxiv.org/pdf/2409.14595"
     #code: ""
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Maximum Mean Discrepancy and Generative Moment Matching Networks: Tutorial and Survey"
     authors: "Ghojogh, Benyamin, Ghodsi, Ali"
