@@ -170,10 +170,10 @@ papers:
   - title: "Supervised discriminative dimensionality reduction by learning multiple transformation operators"
     authors: "Rajabzadeh, Hossein, Jahromi, Mansoor Zolghadri, Ghodsi, Ali"
     venue: "Expert Systems with Applications"
-    #paper_pdf: ""
+    #paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0957417420307417"
     #code: ""
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Fine-tuning and training of densenet for histopathology image representation using tcga diagnostic slides"
     authors: "Riasatian, Abtin, Babaie, Morteza, Maleki, Danial, Kalra, Shivam, Valipour, Mojtaba, Hemati, Sobhan, Zaveri, Manit, Safarpoor, Amir, Shafiei, Sobhan, Afshari, Mehdi, others"
@@ -1003,7 +1003,7 @@ papers:
   - title: "Sortednet, a place for every network and every network in its place: Towards a generalized solution for training many-in-one neural networks"
     authors: "Valipour, Mojtaba, Rezagholizadeh, Mehdi, Rajabzadeh, Hossein, Tahaei, Marzieh, Chen, Boxing, Ghodsi, Ali"
     venue: "arXiv preprint arXiv:2309.00255"
-    #paper_pdf: ""
+    #paper_pdf: "https://arxiv.org/pdf/2309.00255"
     #code: ""
     #data: ""
     selected: n
@@ -1018,11 +1018,11 @@ papers:
 
   - title: "Qdylora: Quantized dynamic low-rank adaptation for efficient large language model tuning"
     authors: "Rajabzadeh, Hossein, Valipour, Mojtaba, Zhu, Tianshu, Tahaei, Marzieh, Kwon, Hyock Ju, Ghodsi, Ali, Chen, Boxing, Rezagholizadeh, Mehdi"
-    venue: "arXiv preprint arXiv:2402.10462"
-    #paper_pdf: ""
+    venue: "emnlp-industry-2024"
+    #paper_pdf: "https://aclanthology.org/2024.emnlp-industry.53.pdf"
     #code: ""
     #data: ""
-    selected: n
+    selected: y
 
   - title: "Scalable Graph Self-Supervised Learning"
     authors: "Pasand, Ali Saheb, Moravej, Reza, Biparva, Mahdi, Karimi, Raika, Ghodsi, Ali"
@@ -1139,7 +1139,7 @@ papers:
   - title: "Echoatt: Attend, copy, then adjust for more efficient large language models"
     authors: "Rajabzadeh, Hossein, Jafari, Aref, Sharma, Aman, Jami, Benyamin, Kwon, Hyock Ju, Ghodsi, Ali, Chen, Boxing, Rezagholizadeh, Mehdi"
     venue: "Efficient Natural Language and Speech Processing (ENLSP-IV) workshop, 2024"
-    #paper_pdf: "https://arxiv.org/pdf/2409.14595"
+    paper_pdf: "https://arxiv.org/pdf/2409.14595"
     #code: ""
     #data: ""
     selected: y
